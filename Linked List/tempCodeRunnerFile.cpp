@@ -1,0 +1,1 @@
+// 'public' should be used inside a class or struct, or remove it if not needed.
